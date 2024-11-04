@@ -7,7 +7,7 @@
 #
 Name     : R-rpart.plot
 Version  : 3.1.2
-Release  : 14
+Release  : 15
 URL      : https://cran.r-project.org/src/contrib/rpart.plot_3.1.2.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/rpart.plot_3.1.2.tar.gz
 Summary  : Plot 'rpart' Models: An Enhanced Version of 'plot.rpart'
